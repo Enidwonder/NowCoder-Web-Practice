@@ -1,0 +1,5 @@
+2023-01-25 00:03:13,816 INFO [main] LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 1.8.0_202 on Max with PID 33152 (started by enid1 in D:\enid1\Projects\mvnWebPractice)
+2023-01-25 00:03:13,817 INFO [main] LoggerTest [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 00:03:15,223 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-25 00:03:15,659 INFO [main] LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.123 seconds (JVM running for 2.819)
+2023-01-25 00:03:15,819 INFO [main] LoggerTest [LoggerTest.java:18] info log
