@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <contextName>mvnWebPractice</contextName>
-    <property name="LOG_PATH" value="D:/enid1/Projects"/>
+    <property name="LOG_PATH" value="D:/"/>
     <property name="APPDIR" value="mvnWebPractice"/>
 
     <!-- error file -->
